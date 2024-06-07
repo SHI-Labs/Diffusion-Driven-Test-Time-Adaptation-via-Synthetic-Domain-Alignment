@@ -9,7 +9,7 @@ _base_ = [
 load_from = 'https://download.openmmlab.com/mmclassification/v0/convnext/convnext-tiny_3rdparty_32xb128_in1k_20220124-18abde00.pth'
 
 # data settings
-data_root = ''
+data_root = 'data/DiT-Syn'
 
 train_dataloader = dict(
     batch_size=128,

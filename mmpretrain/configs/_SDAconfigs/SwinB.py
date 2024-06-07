@@ -8,7 +8,7 @@ _base_ = [
 load_from = 'https://download.openmmlab.com/mmclassification/v0/swin-transformer/swin_base_224_b16x64_300e_imagenet_20210616_190742-93230b0d.pth'
 
 # data settings
-data_root = ''
+data_root = 'data/DiT-Syn'
 train_dataloader = dict(
     batch_size=128,
     dataset=dict(

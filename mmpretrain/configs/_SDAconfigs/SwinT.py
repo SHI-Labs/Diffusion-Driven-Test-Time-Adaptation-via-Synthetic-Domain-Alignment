@@ -10,7 +10,7 @@ load_from='https://download.openmmlab.com/mmclassification/v0/swin-transformer/s
 
 
 # data settings
-data_root = ''
+data_root = 'data/DiT-Syn'
 train_dataloader = dict(
     dataset=dict(
         type='ImageNet',

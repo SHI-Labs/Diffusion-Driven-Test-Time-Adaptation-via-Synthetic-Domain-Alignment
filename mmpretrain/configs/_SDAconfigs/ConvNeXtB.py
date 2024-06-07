@@ -9,7 +9,7 @@ _base_ = [
 load_from = 'https://download.openmmlab.com/mmclassification/v0/convnext/convnext-base_3rdparty_32xb128_in1k_20220124-d0915162.pth'
 
 # data settings
-data_root = ''
+data_root = 'data/DiT-Syn'
 
 model=dict(backbone=dict(type='ConvNeXt', arch='base', drop_path_rate=0.5))
 

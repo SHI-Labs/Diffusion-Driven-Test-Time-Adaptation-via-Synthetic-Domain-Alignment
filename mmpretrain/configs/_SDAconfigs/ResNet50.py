@@ -9,7 +9,7 @@ _base_ = [
 load_from='https://download.openmmlab.com/mmclassification/v0/resnet/resnet50_8xb32_in1k_20210831-ea4938fc.pth '
 
 # data settings
-data_root = 'data/DiT_1_DDA/train'
+data_root = 'data/DiT-Syn'
 train_dataloader = dict(
     batch_size=64,
     dataset=dict(
