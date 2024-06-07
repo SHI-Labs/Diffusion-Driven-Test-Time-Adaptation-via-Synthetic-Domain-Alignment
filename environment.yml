@@ -1,0 +1,17 @@
+name: SDA
+channels:
+  - pytorch
+  - nvidia
+dependencies:
+  - python==3.10
+  - mpi4py
+  - pip
+  - pip:
+    - timm
+    - diffusers
+    - accelerate
+    - openmim
+    - mmengine
+    - blobfile
+    - tqdm
+    - pandas

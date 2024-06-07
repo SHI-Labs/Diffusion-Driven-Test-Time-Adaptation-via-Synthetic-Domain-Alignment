@@ -1,0 +1,11 @@
+name: SDA-FT
+channels:
+  - pytorch
+  - nvidia
+dependencies:
+  - python==3.10
+  - pip
+  - pip:
+    - openmim
+    - einops
+    - mat4py
