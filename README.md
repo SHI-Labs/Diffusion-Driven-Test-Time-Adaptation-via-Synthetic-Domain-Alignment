@@ -1,4 +1,4 @@
-# Diffusion-Driven-Test-Time-Adaptation-with-Synthetic-Domain-Alignment
+# Diffusion-Driven-Test-Time-Adaptation-via-Synthetic-Domain-Alignment
 
 This repository is the official Pytorch implementation for [SDA](https://arxiv.org/abs/2406.04295). 
 
