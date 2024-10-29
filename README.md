@@ -77,7 +77,7 @@ Download pretrained checkpoints (diffusion models and classifiers) via the follo
 ```
 bash scripts/download_ckpt.sh
 ```
-For a quick evaluation, also download our finetuned checkpoints via [Google Drive](https://drive.google.com/drive/folders/12SR935Quk04Yb0gJg0EDh2UDEzjkGGpq?usp=sharing) or [Tsinghua Cloud](https://cloud.tsinghua.edu.cn/d/f2a16abca58d48ed95c7/). Place the checkpoints into `finetuned_ckpt/`.
+For a quick evaluation, also download our finetuned checkpoints via [Google Drive](https://drive.google.com/drive/folders/1sVsfU1_sduDcvgRz4Rb_jXJzRKAChCxb?usp=drive_link) or [Tsinghua Cloud](https://cloud.tsinghua.edu.cn/d/cd0405bae28a4663b29b/). Place the checkpoints into `finetuned_ckpt/`.
 
 ## Evaluation
 We provide example commands to evaluate finetuned models on both ImageNet-C and ImageNet-W:
