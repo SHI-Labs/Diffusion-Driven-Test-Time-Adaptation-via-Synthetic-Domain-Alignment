@@ -30,7 +30,8 @@ same <strong>synthetic domain</strong> of a diffusion model.
 </p>
 
 ## News
-- [2023.06.07] Code, data and models released!
+- [2025.02.27] SDA is accepted by CVPR 2025!
+- [2024.06.07] Code, data and models released!
 
 ## Setup
 ### Installation
